@@ -8,6 +8,8 @@ body {
 
 a { color: #222; font-weight: bold; text-decoration: none; }
 
+img { max-width: 80%; display: block; margin: 0 auto; }
+
 .date { color: #AAA; }
 
 .posts li { list-style: none; }
