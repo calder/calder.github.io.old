@@ -1,0 +1,5 @@
+name: Calder
+
+markdown: redcarpet
+permalink: /:title
+pygments: true

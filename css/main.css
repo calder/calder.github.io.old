@@ -1,0 +1,14 @@
+body {
+  margin: 0 auto;
+  width: 42em;
+
+  color: #444;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+a { color: #222; font-weight: bold; text-decoration: none; }
+
+.date { color: #AAA; }
+
+.posts li { list-style: none; }
+.posts .date { margin-right: 1em; }

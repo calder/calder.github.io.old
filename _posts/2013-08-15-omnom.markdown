@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "OmNom.js"
+categories: programming win
+---
+
+Yada yada [look something cool!](http://devisibly.com/omnom/demo/)
