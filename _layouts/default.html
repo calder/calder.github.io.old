@@ -9,23 +9,8 @@
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,400,700">
   <link rel="stylesheet" href="/css/syntax.css">
   <link rel="stylesheet" href="/css/main.css">
-  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" />
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 </head>
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      skipTags: ["script", "noscript", "style", "textarea", "pre"]
-    }
-  })
-
-  MathJax.Hub.Queue(function() {
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i=0; i < all.length; i += 1) {
-      all[i].SourceElement().parentNode.className += " has-jax"
-    }
-  })
-</script>
 
 <body>
 
@@ -40,6 +25,9 @@
     {{ content }}
 
     <div class="footer">
+      <a href="mailto:caldercoalson@gmail.com"><i class="icon-envelope"></i></a>
+      <a href="https://github.com/calder"><i class="icon-github"></i></a>
+      <a href="https://bitbucket.org/calder"><i class="icon-bitbucket"></i></a>
     </div>
 
   </div>

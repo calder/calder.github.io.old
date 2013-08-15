@@ -14,3 +14,24 @@ img { max-width: 80%; display: block; margin: 0 auto; }
 
 .posts li { list-style: none; }
 .posts .date { margin-right: 1em; }
+
+.footer {
+  margin: 1em 0;
+
+  font-size: 200%;
+  text-align: center;
+}
+
+.footer a {
+  margin: 0 0.25em;
+}
+
+#home #greet {
+  font-weight: 100;
+  font-size: 150%;
+  text-align: center;
+}
+
+.large {
+  font-size: 125%;
+}
