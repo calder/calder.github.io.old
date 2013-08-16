@@ -1,19 +1,29 @@
+html, body { margin: 0; padding: 0; }
+
 body {
-  margin: 0 auto;
-  width: 42em;
+  position: relative;
+  height: 100%;
 
   color: #444;
   font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
+.container {
+  margin: 0 auto;
+  width: 42em;
+}
+
 a { color: #222; font-weight: bold; text-decoration: none; }
 
-img { max-width: 80%; display: block; margin: 0 auto; }
-
 .date { color: #AAA; }
+.large { font-size: 125%; }
 
 .posts li { list-style: none; }
 .posts .date { margin-right: 1em; }
+
+.post img { max-width: 80%; display: block; margin: 0 auto; }
+
+.avatar img { max-width: 80%; display: block; margin: 0 auto; }
 
 .footer {
   margin: 1em 0;
@@ -26,12 +36,15 @@ img { max-width: 80%; display: block; margin: 0 auto; }
   margin: 0 0.25em;
 }
 
+.glider {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.glider img { height: 64px; opacity: 0.1; }
+
 #home #greet {
   font-weight: 100;
   font-size: 150%;
   text-align: center;
-}
-
-.large {
-  font-size: 125%;
 }
