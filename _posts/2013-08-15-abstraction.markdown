@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Abstraction"
-categories: programming essay
+categories: programming thought
 ---
 

@@ -18,7 +18,7 @@ title: Calder
     </p>
   </div>
 
-  <h2>Failures</h2>
+  <h2>Head injuries</h2>
   <ul class="posts">
     {% for post in site.categories.fail %}
       <li>
@@ -28,7 +28,7 @@ title: Calder
     {% endfor %}
   </ul>
 
-  <h2>Cool stuff</h2>
+  <h2>Woohoo!</h2>
   <ul class="posts">
     {% for post in site.categories.win %}
       <li>
@@ -38,7 +38,7 @@ title: Calder
     {% endfor %}
   </ul>
 
-  <h2>Current</h2>
+  <h2>Current obsessions</h2>
   <ul class="posts">
     {% for post in site.categories.current %}
       <li>
@@ -48,9 +48,9 @@ title: Calder
     {% endfor %}
   </ul>
 
-  <h2>Essays</h2>
+  <h2>Thoughts</h2>
   <ul class="posts">
-    {% for post in site.categories.essay %}
+    {% for post in site.categories.thought %}
       <li>
         <span class="date">{{ post.date | date_to_string }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>

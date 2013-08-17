@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beyond the Von Neumann Architecture"
+title:  "Beyond Von Neumann Architectures"
 categories: programming current
 ---
 

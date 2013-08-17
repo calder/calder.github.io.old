@@ -2,7 +2,6 @@ html, body { margin: 0; padding: 0; }
 
 body {
   position: relative;
-  height: 100%;
 
   color: #444;
   font-family: Lato, Helvetica, Arial, sans-serif;
@@ -37,7 +36,7 @@ a { color: #222; font-weight: bold; text-decoration: none; }
 }
 
 .glider {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   right: 0;
 }
