@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reactive Databases"
+title:  Reactive databases
 categories: programming current
 ---
 

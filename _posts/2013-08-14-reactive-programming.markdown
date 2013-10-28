@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reactive programming"
+title:  Reactive programming
 categories: programming current
 ---
 

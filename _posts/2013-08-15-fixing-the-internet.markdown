@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fixing the internet"
+title:  Fixing the internet
 categories: programming current
 ---
 

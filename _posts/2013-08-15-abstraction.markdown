@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abstraction"
+title:  Abstraction
 categories: programming thought
 ---
 

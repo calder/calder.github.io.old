@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pictorial programming"
+title:  Pictorial programming
 categories: programming thought
 ---
 

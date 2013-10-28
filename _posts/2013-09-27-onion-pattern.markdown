@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Onion Pattern
+title:      Onion pattern
 categories: programming thought
 ---
 

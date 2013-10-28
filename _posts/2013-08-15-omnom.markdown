@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OmNom - An (Almost) Universal BNF Parser"
+title:  OmNom - an (almost) universal BNF parser
 categories: programming win
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Glider"
+title:  The glider
 categories: hidden
 ---
 
