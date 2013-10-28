@@ -1,6 +1,13 @@
 ---
 layout: post
-title:  "Glider"
+title:  "The Glider"
 categories: hidden
 ---
 
+...is a symbol that means a [million things](http://www.catb.org/jargon/html/H/hacker-ethic.html) to a [million people](http://www.catb.org/hacker-emblem/).
+
+Such is the curse and the power of symbols.
+
+But right here, right now, this is what it means to me:
+
+> The free flow of information is usually [pretty darn cool](https://www.wikipedia.org/). And the task of deciding and intervening when it isn't is generally far too difficult to be worthwhile.

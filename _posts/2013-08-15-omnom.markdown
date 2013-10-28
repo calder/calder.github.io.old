@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OmNom.js"
+title:  "OmNom - An (Almost) Universal BNF Parser"
 categories: programming win
 ---
 
