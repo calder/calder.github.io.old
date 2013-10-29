@@ -9,17 +9,11 @@ body {
 
 a {
   color: #222;
-  font-weight: bold;
+  font-weight: bolder;
   text-decoration: none;
 }
 
-.date { color: #AAA; }
 .large { font-size: 125%; }
-
-.posts li { list-style: none; }
-.posts .date { margin-right: 1em; }
-
-.post img { max-width: 80%; display: block; margin: 0 auto; }
 
 .avatar img { max-width: 80%; display: block; margin: 0 auto; }
 
@@ -38,8 +32,10 @@ a {
 .glider img { height: 64px; opacity: 0.1; }
 
 .greet {
-  font-weight: 100;
   font-size: 150%;
+  font-weight: lighter;
   text-align: center;
 }
-.greet a { font-weight: 400; }
+.greet a { font-weight: normal; }
+
+.post img { max-width: 80%; display: block; margin: 0 auto; }
