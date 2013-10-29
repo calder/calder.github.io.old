@@ -1,18 +1,17 @@
 html, body { margin: 0; padding: 0; }
 
 body {
-  position: relative;
-
+  margin: 0 auto;
+  width: 42em;
   color: #444;
   font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
-.container {
-  margin: 0 auto;
-  width: 42em;
+a {
+  color: #222;
+  font-weight: bold;
+  text-decoration: none;
 }
-
-a { color: #222; font-weight: bold; text-decoration: none; }
 
 .date { color: #AAA; }
 .large { font-size: 125%; }
@@ -26,14 +25,10 @@ a { color: #222; font-weight: bold; text-decoration: none; }
 
 .footer {
   margin: 1em 0;
-
   font-size: 200%;
   text-align: center;
 }
-
-.footer a {
-  margin: 0 0.25em;
-}
+.footer a { margin: 0 0.25em; }
 
 .glider {
   position: fixed;
@@ -42,8 +37,9 @@ a { color: #222; font-weight: bold; text-decoration: none; }
 }
 .glider img { height: 64px; opacity: 0.1; }
 
-#home #greet {
+.greet {
   font-weight: 100;
   font-size: 150%;
   text-align: center;
 }
+.greet a { font-weight: 400; }
