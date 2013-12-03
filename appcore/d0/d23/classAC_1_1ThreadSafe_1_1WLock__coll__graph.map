@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$dc/d7b/classAC_1_1NonCopyable.html" title="Inherit this class to prevent child from being copied." alt="" coords="5,197,144,227"/>
+<area shape="rect" id="node4" href="$dc/d1f/classAC_1_1ThreadSafe.html" title="Provides a basic framework for writing thread&#45;safe objects." alt="" coords="168,197,293,227"/>
+<area shape="rect" id="node6" href="$d0/d8a/classAC_1_1ThreadID.html" title="Represents a hardware abstracted Thread ID." alt="" coords="87,101,199,131"/>
+<area shape="rect" id="node8" href="$d3/d83/classAC_1_1ThreadIDImpl.html" title="Thread ID implementation." alt="" coords="73,5,212,35"/>
+<area shape="rect" id="node10" href="$d6/dac/classAC_1_1Condition.html" title="A simple condition implementation." alt="" coords="261,101,376,131"/>
+<area shape="rect" id="node12" href="$dc/d22/classAC_1_1ConditionImpl.html" title="Condition implementation." alt="" coords="248,5,389,35"/>
+</map>

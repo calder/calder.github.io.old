@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$df/d20/classAC_1_1SerialData.html" title="Stores data in XML serializable form." alt="" coords="5,232,125,261"/>
+<area shape="rect" id="node7" href="$dc/d1f/classAC_1_1ThreadSafe.html" title="Provides a basic framework for writing thread&#45;safe objects." alt="" coords="233,232,359,261"/>
+<area shape="rect" id="node9" href="$d0/d8a/classAC_1_1ThreadID.html" title="Represents a hardware abstracted Thread ID." alt="" coords="179,101,291,131"/>
+<area shape="rect" id="node11" href="$d3/d83/classAC_1_1ThreadIDImpl.html" title="Thread ID implementation." alt="" coords="165,5,304,35"/>
+<area shape="rect" id="node13" href="$d6/dac/classAC_1_1Condition.html" title="A simple condition implementation." alt="" coords="353,101,468,131"/>
+<area shape="rect" id="node15" href="$dc/d22/classAC_1_1ConditionImpl.html" title="Condition implementation." alt="" coords="340,5,481,35"/>
+</map>

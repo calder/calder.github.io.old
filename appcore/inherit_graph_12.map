@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$dc/d7b/classAC_1_1NonCopyable.html" title="Inherit this class to prevent child from being copied." alt="" coords="5,59,144,88"/>
+<area shape="rect" id="node3" href="$df/dd2/classAC_1_1Singleton.html" title="A simple implementation of the singleton pattern." alt="" coords="213,5,363,35"/>
+<area shape="rect" id="node5" href="$db/dda/classAC_1_1ThreadSafe_1_1RWLock.html" title="Provides scoped read&#45;write locks on ThreadSafe objects." alt="" coords="193,59,383,88"/>
+<area shape="rect" id="node7" href="$d8/d33/classAC_1_1ThreadSafe_1_1WLock.html" title="Provides scoped write locks on ThreadSafe objects." alt="" coords="197,112,379,141"/>
+</map>

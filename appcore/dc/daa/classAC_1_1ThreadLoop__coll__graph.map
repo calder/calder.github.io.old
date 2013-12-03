@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$de/d92/classAC_1_1Thread.html" title="Implementation independent thread object." alt="" coords="1319,172,1415,201"/>
+<area shape="rect" id="node4" href="$da/d94/classAC_1_1ThreadImpl.html" title="Interface for various Thread implementations." alt="" coords="1555,173,1680,203"/>
+<area shape="rect" id="node7" href="$d9/d85/classAC_1_1Callable.html" title="Stores a function that can be called at a later time." alt="" coords="968,119,1069,148"/>
+<area shape="rect" id="node11" href="$d6/dac/classAC_1_1Condition.html" title="A simple condition implementation." alt="" coords="308,52,423,81"/>
+<area shape="rect" id="node17" href="$dc/d1f/classAC_1_1ThreadSafe.html" title="Provides a basic framework for writing thread&#45;safe objects." alt="" coords="623,108,748,137"/>
+<area shape="rect" id="node13" href="$dc/d22/classAC_1_1ConditionImpl.html" title="Condition implementation." alt="" coords="7,52,148,81"/>
+<area shape="rect" id="node15" href="$d0/d88/classAC_1_1TSMap.html" title="AC::TSMap\&lt; std::string, Thread * \&gt;" alt="" coords="889,279,1148,308"/>
+<area shape="rect" id="node28" href="$d6/d72/classAC_1_1TSQueue.html" title="AC::TSQueue\&lt; QueueCallable * \&gt;" alt="" coords="893,65,1144,95"/>
+<area shape="rect" id="node31" href="$d0/d88/classAC_1_1TSMap.html" title="AC::TSMap\&lt; ThreadID, Thread * \&gt;" alt="" coords="893,225,1144,255"/>
+<area shape="rect" id="node19" href="$d0/d8a/classAC_1_1ThreadID.html" title="Represents a hardware abstracted Thread ID." alt="" coords="309,108,421,137"/>
+<area shape="rect" id="node21" href="$d3/d83/classAC_1_1ThreadIDImpl.html" title="Thread ID implementation." alt="" coords="8,108,147,137"/>
+<area shape="rect" id="node24" href="$d6/d08/classAC_1_1Mutex.html" title="Implementation independent recursive mutex object." alt="" coords="639,279,732,308"/>
+<area shape="rect" id="node26" href="$da/d1d/classAC_1_1MutexImpl.html" title="Mutex implementation." alt="" coords="304,279,427,308"/>
+</map>

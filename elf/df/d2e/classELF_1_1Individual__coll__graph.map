@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d4/d59/classELF_1_1Copyable.html" title="ELF::Copyable\&lt; Individual \&gt;" alt="" coords="5,187,208,218"/>
+<area shape="rect" id="node4" href="$d0/d64/classELF_1_1Pointable.html" title="Classes that wish to use Ptr must inherit this." alt="" coords="226,6,336,37"/>
+<area shape="rect" id="node8" href="$d5/d3b/classELF_1_1Instruction.html" title="Parent to all Instructions available in a Language." alt="" coords="282,89,403,119"/>
+<area shape="rect" id="node6" href="$d0/df9/classELF_1_1Function.html" title="A string of Instructions that can itself be called like an Instruction." alt="" coords="289,187,396,218"/>
+<area shape="rect" id="node11" href="$da/d23/classELF_1_1Register.html" title="Storage for functions." alt="" coords="427,89,529,119"/>
+<area shape="rect" id="node13" href="$d4/d59/classELF_1_1Copyable.html" title="ELF::Copyable\&lt; Register \&gt;" alt="" coords="382,6,575,37"/>
+</map>

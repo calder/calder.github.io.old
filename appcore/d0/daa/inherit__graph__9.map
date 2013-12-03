@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d7/d59/classAC_1_1MessageHandler.html" title="Interface for any class that wants to receive messages." alt="" coords="5,5,168,35"/>
+<area shape="rect" id="node3" href="$d7/d93/classAC_1_1ThreadBoundMessageHandler.html" title="A MessageHandler that only processes requests in a specific thread." alt="" coords="216,5,467,35"/>
+</map>

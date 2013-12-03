@@ -1,0 +1,6 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$d6/d5a/group__threading.html" title="This group contains all classes pertaining to AppCore’s multithreading functions." alt="" coords="380,199,465,228"/>
+<area shape="rect" id="node2" href="$df/da9/group__messaging.html" title="This group collectively implements a simple system for passing dynamic messages between classes as an..." alt="" coords="377,351,468,380"/>
+<area shape="rect" id="node3" href="$d7/d6a/group__utility.html" title="This group contains various small utility classes employed by AppCore." alt="" coords="387,485,459,515"/>
+<area shape="rect" id="node4" href="$d6/d23/group__serialization.html" title="This group contains all classes pertaining to AppCore’s serialization system." alt="" coords="372,603,473,632"/>
+</map>

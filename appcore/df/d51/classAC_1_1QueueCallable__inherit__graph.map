@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$dd/d81/classAC_1_1MessageHandlerCallable.html" title="Wraps a call to MessageHandler::handleMessage()" alt="" coords="5,160,219,189"/>
+<area shape="rect" id="node7" href="$dd/dac/classAC_1_1ReturnCallable.html" title="A Callable that can be queried for the return value of the function." alt="" coords="243,160,477,189"/>
+<area shape="rect" id="node2" href="$d9/d85/classAC_1_1Callable.html" title="Stores a function that can be called at a later time." alt="" coords="185,5,287,35"/>
+</map>

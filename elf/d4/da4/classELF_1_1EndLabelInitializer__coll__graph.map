@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d3/d43/classELF_1_1Initializer.html" title="An object that can create new instances of a particular Value type." alt="" coords="34,166,144,197"/>
+<area shape="rect" id="node4" href="$db/d68/classELF_1_1Value.html" title="Interface for all available Value types." alt="" coords="46,86,132,117"/>
+<area shape="rect" id="node6" href="$d0/d64/classELF_1_1Pointable.html" title="Classes that wish to use Ptr must inherit this." alt="" coords="34,6,144,37"/>
+</map>

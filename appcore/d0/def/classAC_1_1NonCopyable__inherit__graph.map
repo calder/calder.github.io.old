@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/dd2/classAC_1_1Singleton.html" title="A simple implementation of the singleton pattern." alt="" coords="5,83,155,112"/>
+<area shape="rect" id="node5" href="$db/dda/classAC_1_1ThreadSafe_1_1RWLock.html" title="Provides scoped read&#45;write locks on ThreadSafe objects." alt="" coords="179,83,368,112"/>
+<area shape="rect" id="node7" href="$d8/d33/classAC_1_1ThreadSafe_1_1WLock.html" title="Provides scoped write locks on ThreadSafe objects." alt="" coords="392,83,573,112"/>
+</map>
