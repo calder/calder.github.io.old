@@ -1,0 +1,19 @@
+body
+{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 125%;
+    padding: 20px;
+}
+
+h2 { margin-top: 1.5em; }
+
+img       { vertical-align: top; }
+img       { max-width: 100%; }
+img.half  { max-width: 49%; }
+img.third { max-width: 33%; }
+img.quart { max-width: 24.8%; }
+img.pad   { padding: 12px; }
+
+img.link { cursor: hand; }
+img.link:hover { opacity: 0.85; }

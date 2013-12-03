@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Data Structures Resources</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Data Structures Resources</h1>
+
+This is a collection of (hopefully) cool resources for college level CS 2 courses.  Almost all of them rely heavily on visualization to help with debugging and understanding.
+<ul>
+  <li><b>Repository:</b> <a href="https://bitbucket.org/calder/datastructures">https://bitbucket.org/calder/datastructures</a></li>
+  <li><b>Schedule:</b> <a href="pdfs/Topics.pdf">Topics.pdf</a></li>
+</ul>
+
+
+<h2>Java Syntax Crash Course</h2>
+
+<a href="pdfs/JavaSyntaxPart1.pdf">
+  <div>
+    <img src="images/javasyntax1.png" class="half"></img>
+    <img src="images/javasyntax2.png" class="half"></img>
+  </div>
+</a>
+
+<h2>The Sorting Hat</h2>
+
+Assignment goals:
+<ol>
+  <li>Introduce object orientation and efficiency.</li>
+  <li>Teach some Java basics: types, functions and loops.</li>
+  <li>Have fun with sorting!</li>
+</ol>
+With that in mind, the assignment intentionally avoids many "slick" tricks introduced in future assignments.  Everything except the array and GUI code lives in a single file composed of <tt>static</tt> functions.  This gives an "outside-in" introduction to object orientation, where students get practice <i>using</i> an <tt>Array</tt> class before writing their own.
+
+<div>
+  <img src="images/sortinghat1.png" class="half"></img>
+  <img src="images/sortinghat2.png" class="half"></img>
+</div>
+
+<pre class="text">
+Bubble: Sorted
+Swaps = 0      Comps = 0     List = [a, b, c, d, e, f, g, h, i, j, k, l, m]
+Swaps = 0      Comps = 12    List = [a, b, c, d, e, f, g, h, i, j, k, l, m]
+
+Bubble: Shuffled
+Swaps = 0      Comps = 0     List = [g, c, a, f, b, m, k, j, h, l, i, e, d]
+Swaps = 35     Comps = 75    List = [a, b, c, d, e, f, g, h, i, j, k, l, m]
+
+Bubble: Reversed
+Swaps = 0      Comps = 0     List = [m, l, k, j, i, h, g, f, e, d, c, b, a]
+Swaps = 78     Comps = 78    List = [a, b, c, d, e, f, g, h, i, j, k, l, m]
+</pre>
+
+
+<h2>The <i>Even Cooler</i> Sorting Hat</h2>
+
+Assignment goals:
+<ol>
+  <li>Introduce polymorphism and recursion.</li>
+  <li>Analyze running times of recursive functions.</li>
+  <li>Play around with merge sort and quick sort!</li>
+</ol>
+This assignment is designed to be as slick as possible to hopefully inspire some appreciation for the benefits of polymorphism.  Sorting algorithms and displays have both been abstracted away into interfaces so students can compare any set of algorithms using any display.  And while each sorting algorithm is its own class, they have no instance variables or state yet.
+
+<div>
+  <img src="images/coolsortinghat1.png" class="third"></img>
+  <img src="images/coolsortinghat2.png" class="third"></img>
+  <img src="images/coolsortinghat3.png" class="third"></img>
+</div>
+
+<div>
+  <img src="images/coolsortinghat4.png" class="third"></img>
+  <img src="images/coolsortinghat5.png" class="third"></img>
+  <img src="images/coolsortinghat6.png" class="third"></img>
+</div>
+
+<pre>
+Bubble Sort
++--------+------------------------+-------------------------------+-------------------------------+
+|        |        SORTED          |           SHUFFLED            |            REVERSED           |
+|     N  |   time  swaps   comps  |   time      swaps      comps  |   time       swaps      comps |
++--------+------------------------+-------------------------------+-------------------------------+
+|  1000  |  0.003      0     999  |  0.120     712956     499065  |  0.037     1498500     499500 |
+|  2000  |  0.002      0    1999  |  0.098    2889858    1998220  |  0.124     5997000    1999000 |
+|  3000  |  0.000      0    2999  |  0.164    6306840    4488770  |  0.221    13495500    4498500 |
+|  4000  |  0.000      0    3999  |  0.296   11750430    7994840  |  0.372    23994000    7998000 |
+|  5000  |  0.000      0    4999  |  0.450   18111342   12496554  |  0.585    37492500   12497500 |
+|  6000  |  0.000      0    5999  |  0.680   25856079   17978472  |  0.873    53991000   17997000 |
+|  7000  |  0.000      0    6999  |  0.856   35247678   24494085  |  1.106    73489500   24496500 |
+|  8000  |  0.000      0    7999  |  1.145   46318854   31978422  |  1.464    95988000   31996000 |
+|  9000  |  0.000      0    8999  |  1.456   58642545   40462089  |  1.848   121486500   40495500 |
+| 10000  |  0.000      0    9999  |  1.816   72454314   49990440  |  2.320   149985000   49995000 |
++--------+------------------------+-------------------------------+-------------------------------+
+</pre>
+
+
+<h2>Quackers</h2>
+
+Assignment goals:
+<ol>
+  <li>Introduce interfaces and unit testing.</li>
+  <li>Write a data structure.</li>
+  <li>Mess around with arrays and lists and queues and stacks <i>oh my!</i></li>
+</ol>
+Students will implement a simple double-ended queue interface.  The assignment uses no visualization because of the open-ended implementation, but instead includes a bunch of unit tests to help with debugging.  Once they can pass all tests, there is a speed trial that will automatically submit times to a high score server for a class wide competition.
+
+<pre>
++--------+---------+---------------------------------------------------+
+|  TIME  | GROUP   |                          COMPUTER                 |
++--------+---------+---------------------------------------------------+
+|  7.714 | :-)     | MacBookPro6,2 - Intel Core i5 CPU M 520 @ 2.40GHz |
+|  7.734 | Group 2 | MacBookPro6,2 - Intel Core i5 CPU M 520 @ 2.40GHz |
+|  7.876 | Group 1 | MacBookPro6,2 - Intel Core i5 CPU M 520 @ 2.40GHz |
+|  8.442 | Group 3 | MacBookPro6,2 - Intel Core i5 CPU M 520 @ 2.40GHz |
+| 10.817 | :'-(    | MacBookPro6,2 - Intel Core i5 CPU M 520 @ 2.40GHz |
++--------+---------+---------------------------------------------------+
+</pre>
+
+
+<h2>Pathfinding</h2>
+
+Assignment goals:
+<ol>
+  <li>Introduce graphs and graph search algorithms.</li>
+  <li>Develop an intuition for different search techniques.</li>
+  <li>Watch a computer "think" about how to get from point A to point B!</li>
+</ol>
+
+
+
+<div>
+  <img src="images/pathfinding1.png" class="third"></img>
+  <img src="images/pathfinding2.png" class="third"></img>
+  <img src="images/pathfinding3.png" class="third"></img>
+</div>
+
+<pre>
+A* Quality Comparison
++---------+--------+--------+---------+---------+
+| QUALITY |  COST  | LENGTH | NOTICED | VISITED |
++---------+--------+--------+---------+---------+
+|    1.00 | 699.25 |    578 |  253183 |   61580 |
+|    0.90 | 700.54 |    579 |  157784 |   37893 |
+|    0.80 | 702.16 |    579 |   37893 |    8570 |
+|    0.70 | 734.41 |    592 |   10458 |    2027 |
+|    0.60 | 750.22 |    592 |    7575 |    1381 |
+|    0.50 | 891.62 |    522 |    7681 |    1499 |
++---------+--------+--------+---------+---------+
+</pre>
+
+</body>
