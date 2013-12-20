@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rsync -r /Users/Calder/Developer/Website/cloudcorps/ root@cloudcorps.io:/var/www/cloudcorps.io/
