@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
   width: 42em;
   color: #444;
-  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -32,6 +32,7 @@ a {
 .glider img { height: 64px; opacity: 0.1; }
 
 .greet {
+  font-family: Lato;
   font-size: 150%;
   font-weight: lighter;
   text-align: center;
