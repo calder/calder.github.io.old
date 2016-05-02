@@ -1,5 +1,5 @@
 name: Calder
 
+highlighter: rouge
 markdown: redcarpet
 permalink: /:title
-pygments: true
