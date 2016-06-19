@@ -13,6 +13,13 @@ a {
   text-decoration: none;
 }
 
+.centered {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .large { font-size: 125%; }
 
 .avatar img { max-width: 80%; display: block; margin: 0 auto; }
